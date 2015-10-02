@@ -24,6 +24,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-soon": "^1.0.0",
+    "hubot-strawpoll": "^1.0.1",
     "hubot-thank-you": "0.0.3"
   },
   "engines": {
