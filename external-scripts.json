@@ -1,12 +1,19 @@
 [
+  "hubot-darksky",
   "hubot-diagnostics",
+  "hubot-dogeme",
+  "hubot-fliptable",
   "hubot-help",
   "hubot-heroku-keepalive",
+  "hubot-humanity",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-sentimental",
+  "hubot-shipit",
+  "hubot-soon",
+  "hubot-thank-you"
 ]
