@@ -1,7 +1,6 @@
 [
   "hubot-bofh",
   "hubot-bro",
-  "hubot-business-cat",
   "hubot-darksky",
   "hubot-diagnostics",
   "hubot-dinner",
@@ -12,7 +11,6 @@
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-humanity",
-  "hubot-ikr",
   "hubot-insanedomains",
   "hubot-leaderboard",
   "hubot-maps",
@@ -26,6 +24,5 @@
   "hubot-shipit",
   "hubot-soon",
   "hubot-strawpoll",
-  "hubot-thank-you",
-  "hubot-victory"
+  "hubot-thank-you"
 ]
