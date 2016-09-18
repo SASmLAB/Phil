@@ -1,12 +1,10 @@
 [
   "hubot-bofh",
-  "hubot-bro",
   "hubot-darksky",
   "hubot-diagnostics",
   "hubot-dinner",
   "hubot-dogeme",
   "hubot-fliptable",
-  "hubot-google-images",
   "hubot-google-translate",
   "hubot-help",
   "hubot-heroku-keepalive",
@@ -21,7 +19,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-sentimental",
-  "hubot-soon",
   "hubot-strawpoll",
   "hubot-thank-you"
 ]
